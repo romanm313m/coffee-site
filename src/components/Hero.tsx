@@ -55,7 +55,7 @@ export function Hero() {
       {/* Фотография */}
       <div className="relative z-0 md:absolute md:inset-0">
         <img
-          src="/images/hero.jpg"
+          src="./images/hero.jpg"
           alt="Эспрессо в тёмной керамической чашке на деревянной столешнице, рука баристы с темпером"
           width={2720}
           height={1356}
