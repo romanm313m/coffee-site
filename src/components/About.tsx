@@ -50,7 +50,7 @@ export function About() {
           <Reveal delay={100} className="md:col-span-5">
             <figure className="overflow-hidden rounded-[16px]">
               <img
-                src="./images/interior.jpg"
+                src="/coffee-site/images/interior.jpg"
                 alt="Стойка кофейни: латунная кофемолка, металлические воронки и чашки на деревянной полке"
                 width={1824}
                 height={2154}
