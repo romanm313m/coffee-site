@@ -1,0 +1,7 @@
+node_modules
+dist
+.mcode
+*.local
+*.tsbuildinfo
+.vite-dev*.log
+.DS_Store
